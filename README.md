@@ -91,7 +91,7 @@ Understand the differences between commonly confused laboratory tests.
 Examples:
 
 - Malaria RDT vs Blood Film
-- HBsAg vs Hep B test
+- HBsAg vs Hep C test
 
 ---
 
