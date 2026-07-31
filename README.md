@@ -1,7 +1,7 @@
 # LabGuide AI
 
-> **Understand your lab test before you go.**<br>
-> Helping Ghanaians understand common medical lab tests in plain, everyday language before they visit a lab or clinic.
+> *Understand your lab test before you go.*<br>
+> *Helping Ghanaians understand common medical lab tests in plain, everyday language before they visit a lab or clinic.*
 
 
 LabGuide AI is a mobile-first web application that helps patients in Ghana understand laboratory tests in clear, everyday language. It explains why a test is performed, how to prepare, what to expect during sample collection, estimated costs, turnaround times, and where to access the test.
@@ -91,7 +91,7 @@ Understand the differences between commonly confused laboratory tests.
 Examples:
 
 - Malaria RDT vs Blood Film
-- HBsAg vs Full Blood Count
+- HBsAg vs Hep B test
 
 ---
 
@@ -134,7 +134,7 @@ The application currently includes:
 - Laboratory locations within Greater Accra and Tema
 - Estimated patient pricing
 - Patient preparation guidance
-- Laboratory operating hours
+- Laboratory operating hours, contact and location
 
 Coverage will expand to additional regions over time.
 
@@ -176,7 +176,7 @@ It does **not** diagnose medical conditions, interpret individual laboratory res
 - Laboratory price comparison
 - Personalized preparation reminders
 - Laboratory appointment integration
-- QR sharing with healthcare providers
+- QR sharing and booking with healthcare providers
 
 ---
 
