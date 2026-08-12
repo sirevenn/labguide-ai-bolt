@@ -1,13 +1,13 @@
-# LabGuide AI
+# LabGuide AI 
 
 > *Understand your lab test before you go.*<br>
 > *Helping Ghanaians understand common medical lab tests in plain, everyday language before they visit a lab or clinic.*
 
-
 LabGuide AI is a mobile-first web application that helps patients in Ghana understand laboratory tests in clear, everyday language. It explains why a test is performed, how to prepare, what to expect during sample collection, estimated costs, turnaround times, and where to access the test.
 
-The goal is simple: **help patients arrive informed, prepared, and confident before visiting the laboratory.**
+The goal is to help patients arrive informed, prepared, and confident before visiting the laboratory.
 
+#### Try it here: [Link](https://labguide.bolt.host/)
 ---
 
 ## Overview
